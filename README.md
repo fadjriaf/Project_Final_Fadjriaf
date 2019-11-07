@@ -1,5 +1,5 @@
 # Project_Final_Fadjriaf
-Final Project Fadjriaf VSGA DTS 2019 (Android Studio)
+Final Project Junior Mobile Programming VSGA DTS 2019
 
 ## Panduan Menggunakan
 ## Xampp
